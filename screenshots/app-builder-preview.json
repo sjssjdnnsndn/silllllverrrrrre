@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Argent Pulse",
+      "hasCanvas": false,
+      "bodyTextLen": 1867,
+      "bodyTextHash": "ac36dfe0c6b0168f156110aab4aa3e59bb7f68b911e458adb00a8dc510a164de",
+      "bodyTextPrefix": "Argent Pulse Silver direction desk Last print Next scan 15s HI S",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Argent Pulse",
+      "hasCanvas": false,
+      "bodyTextLen": 1761,
+      "bodyTextHash": "cc5e3b5cb2af46d958c728b0c77d1f7c1493a9d895e220bcde9c8257b4231fab",
+      "bodyTextPrefix": "Argent Pulse Silver direction desk Last print HI Sun 14:52 EDT ·",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
